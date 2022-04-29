@@ -1,0 +1,123 @@
+h1{
+				text-align: center;
+				font-size: 100px;
+				color: teal;
+}
+
+h2{
+				color: black;
+				font-size: 60px;
+				font-style: italic;
+}
+
+h3{
+				color: blue;
+				font-size: 50px;
+}
+
+h5{
+				font-size: 34px;
+				text-align: left;
+}
+
+figcaption{
+				font-size: 10px;
+}
+nav ul{
+				list-style-type: none;				
+				padding: 0;
+				margin: 0;
+				width: 560px;
+				
+}
+
+nav li{
+				display: inline;
+				float: left;
+				}
+				
+nav a:link, nav a:visited{
+				background-color: lavenderblush;
+				color: burlywood;
+				font-size: 70px;
+				display: block;
+				width: 660px;
+				text-align: center;
+				padding: 10px;
+}
+
+nav a:hover{
+				color: black;
+}
+
+a:link{
+				color: orange;
+				text-decoration: none;
+				font-size: 50px;				
+}
+
+a:visited{
+				color: #82a46d ;
+}
+
+a:hover{
+				color: black;
+}
+
+
+body{
+				background-color: peachpuff;
+				font-family:helvetica, sans-serif, Arial;
+			 }
+			 
+p {			 
+				font-size: 35px;							
+				padding-left: 40px;
+				padding-right: 40px;
+				padding-top: 40px;
+				padding-bottom: 40px;				
+}
+			 
+ol{
+   list-style-image: url("images/a-cup-of-coffee_resize_98.gif");   
+   font-size: 50px;
+   font-family: serif;
+   color: tomato;
+			}
+			
+ul{
+				list-style-type: square; 
+				font-size: 30px;
+}
+
+.music{
+																
+				border: 5px solid black;
+}			
+
+#block1{
+				color: royalblue;
+				background-color: lightgrey;						
+}
+
+#block2{
+				color: royalblue;
+				background-color: lightgreen;					
+}
+
+#block3{
+				color: royalblue;
+				background-color: pink;							
+}
+
+#block4{
+    color: royalblue;
+				background-color: lightcoral;					
+}
+.special-words{
+				color: darkslateblue;
+}
+
+#contact{
+				color: hotpink;
+}
